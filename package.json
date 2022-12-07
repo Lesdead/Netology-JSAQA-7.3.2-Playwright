@@ -1,0 +1,24 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lesdead/JSA-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lesdead/JSA-Playwright/issues"
+  },
+  "homepage": "https://github.com/Lesdead/JSA-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0",
+    "playwright": "^1.25.2"
+  }
+}
